@@ -1,0 +1,50 @@
+body    {
+    
+    background-color: rgb(46,44,44);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color:white;
+    
+    
+}
+.pageinicial {
+    position: fixed;
+    top:0;
+    width: 100%;
+    z-index:10;
+    background-color: #3433cd;
+    left:0px;
+    right:0px;
+    height:77px;
+}
+.cabeçalho {
+    position:absolute;
+    top:5px;
+    right:200px;
+    opacity:0.5;
+    
+}
+.cabeçalho:hover {
+    opacity:1;
+    background-color: rgb(62, 39, 126);
+ }
+ .cabeçalho2 {
+    position:absolute;
+    top:13px;
+    right:25px;
+    opacity:0.5;
+    
+ }
+ .cabeçalho2:hover {
+    opacity:1;
+    background-color: rgb(62, 39, 126);
+    
+ }
+ .logo{
+    position: absolute;
+    left:0px;
+    height: 77px;
+    
+ }
+
